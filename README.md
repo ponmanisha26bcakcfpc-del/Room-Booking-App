@@ -1,7 +1,8 @@
 # Room-Booking-Apphttps:
 Prototype
 
-https://www.figma.com/design/hgcQ5oyGDJn4zaYS67iiuD/Untitled?m=dev&t=wxDW0azwVoT5xwlA-1
+https://www.figma.com/proto/hgcQ5oyGDJn4zaYS67iiuD/Untitled?node-id=42-25&t=CxzJGKPCdjayqPU0-1
+
 
 Design Link
 
